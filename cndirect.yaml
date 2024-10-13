@@ -1,4 +1,4 @@
 payload:
-    - +.wzlib.cn
-    - +.seoul16.fudan.us.kg
-    - +.j4125.fudan.us.kg
+- DOMAIN-SUFFIX,wzlib.cn
+- DOMAIN,seoul16.fudan.us.kg
+- DOMAIN,j4125.fudan.us.kg
